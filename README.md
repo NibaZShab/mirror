@@ -1,5 +1,3 @@
-<div align=right>
-
-![](/404/markdown/picture/01.png)
-
-</div>
+> 哈哈
+>> 你那设计
+> gog
