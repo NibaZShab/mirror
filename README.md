@@ -1,5 +1,1 @@
-| --- |
-|  密码  | 咩 | 
-| |
-| 单元格  | 咩咩咩 |
-git push origin master
+git commit -m "你的注释"git push origin mastergit clone 项目ure/18.png)git remote add origin 项目地
