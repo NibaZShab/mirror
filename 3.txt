@@ -1,12 +1,23 @@
 pkg in -y curl php git
+
 git clone https://github.com/lkeme/BiliHelper-personal.git
+
 mv -f ~/BiliHelper-personal/conf/user.conf.example ~/BiliHelper-personal/conf/user.conf
+
 curl -sS https://getcomposer.org/installer | php
+
 mv -f ~/composer.phar ~/BiliHelper-personal/
+
 cd ~/BiliHelper-personal/
+
 php composer.phar install
+
 cd ~
+
 hint ; echo -e "输入 vi ~/BiliHelper-personal/conf/user.conf 填上自己的b站账号和密码即可" ; hint
+
 sleep 3
+
 echo -e "php ~/BiliHelper-personal/index.php" > ~/bilibili
+
 chmod +x ~/bilibili
