@@ -36,7 +36,7 @@ function FetchPython()
         0))
         {
             0 {
-                $archive = "$Script:installRoot\download\{0}" -f ( $Script:pythonUrl.SubString($Script:pythonUrl.LastIndexOf("/")+1))
+                $archive = "$Script:installRoot\download{0}" -f ( $Script:pythonUrl.SubString($Script:pythonUrl.LastIndexOf("/")+1))
                 if(!(Test-Path -Path $archive))
                 {
                     Write-Host "Downloading:" $Script:pythonUrl
