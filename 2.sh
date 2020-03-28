@@ -11,7 +11,7 @@ $Script:PythonInstallDir = "C:\python36"
 
 if($env:PROCESSOR_ARCHITECTURE.contains("64"))
 {
-    $Script:pythonUrl = "https://coding-net-production-file-1257242599.cos.ap-shanghai.myqcloud.com/cf40c860-70f1-11ea-a0ec-2179d984f7a5.exe?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDay83lFmaS6Y4LTdzMVO1SdZOyJSNOYpr%26q-sign-time%3D1585400411%3B1585404011%26q-key-time%3D1585400411%3B1585404011%26q-header-list%3D%26q-url-param-list%3Dresponse-content-disposition%3Bresponse-expires%26q-signature%3D9303ed5a46ebdff1dd6e447514e714f92cafafc6&response-content-disposition=attachment%3Bfilename%3Dpython-3.6.6-amd64.exe&response-expires=Tue%2C%2031%20Mar%202020%2001%3A00%3A11%20GMT"
+    $Script:pythonUrl = "file:///C:/Users/NibaZShab/Downloads/python-3.6.6-amd64.exe"
 }
 else
 {
