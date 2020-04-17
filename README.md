@@ -4,10 +4,8 @@
 
 <details>
 <summary>点我看更多</summary>
-
 - I am sorry
 - your mother...her...
-
 <details>
 <summary>点我看更多</summary>
 
