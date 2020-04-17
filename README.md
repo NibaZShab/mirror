@@ -5,5 +5,6 @@
 <details>
 <summary>点我看更多</summary>
 
-草泥马！
+> 草泥马！
+
 </details>
