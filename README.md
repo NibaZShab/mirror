@@ -1,3 +1,5 @@
+https://send.firefox.com/oauth?code=c9006215fe5bfabae51fc3c6f6b106d16c6c0deeb3e9e0d38a0950e8a595c873&state=gDKQ4ZM3Y4Oj7ECcfAueEw&action=signin
+
 <details>
 <summary>网页小游戏</summary>
 <br>
