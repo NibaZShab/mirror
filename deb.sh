@@ -13,7 +13,7 @@ then
   mkdir bin
   cd bin
 else
-	mkdir data/data/com.termux/files/usr/bin
+  mkdir data/data/com.termux/files/usr/bin
   cd ddata/data/com.termux/files/usr/bin
 fi
 
