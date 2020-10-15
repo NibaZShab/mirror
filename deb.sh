@@ -28,5 +28,5 @@ Package: test    包名
 Version: 1.0    版本号
 Architecture: all    运行架构
 "
-ehco "打包指令为 dpkg-deb -b $HOME/tset $HOME/test.deb"
+echo "打包指令为 dpkg-deb -b $HOME/tset $HOME/test.deb"
 echo "如提示权限不足，则先输入 chmod -Rf 0755 $HOME/tset 再打包即可"
