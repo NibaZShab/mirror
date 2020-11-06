@@ -1,3 +1,4 @@
+[点我](ssr://MTUzLjM2LjExMC4xMDQ6NDM1NzY6b3JpZ2luOmFlcy0xMjgtY3RyOnBsYWluOmVqaEtUMlZwLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NWI2UTViZWU2SUdVNllDYUxlZS1qdVdidlVGNmRYSmw2WnFuNllHVE1sdmxnSTNuam9jNk1DNDVYUSZncm91cD1RMjl5WkVOc2IzVms)
 
 <table><tr><td bgcolor=#F9F2F4><font size=2 color=#DD587B>
 https://www.lanzoui.com/b01bu2tqf
