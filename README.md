@@ -14,7 +14,7 @@ b78m
 
 > 石墨文档
 >
->> https://shimo.im](https://shimo.im
+>> https://shimo.im
 
 > WPS便签
 >
