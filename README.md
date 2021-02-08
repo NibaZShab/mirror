@@ -5,10 +5,6 @@ https://www.lanzoui.com/b01bu2tqf b78m
 https://shimo.im/docs/CVKchqcyJYTrKHrx
 ```
 
-太刀特效 https://www.nexusmods.com/monsterhunterworld/mods/4279
-
-https://i.loli.net/2021/01/19/RU4SWETwhLFMGDY.png
-
 # 二十四节气
 
 春： 立春，雨水，惊蛰，春分，清明，谷雨
