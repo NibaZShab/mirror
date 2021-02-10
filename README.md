@@ -104,7 +104,7 @@ https://www.lanzoui.com/b01bu2tqf b78m
 
 > 不死鸟引擎
 >
->> https://hao.su/909
+>> https://iao.su/909
 
 > 屏幕刷新率
 >
