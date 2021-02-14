@@ -1,7 +1,6 @@
 ```
 https://www.lanzoui.com/b01bu2tqf b78m
 ```
-[点我](ssr://MTE2LjE2My4xNC4xMzozOTYyMDpvcmlnaW46YWVzLTEyOC1jdHI6cGxhaW46U3poNE5WZ3ovP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz02WldfNXJLWjZJR1U2WUNhTGVhV3NPV0tvT1dkb1VGNmRYSmxXMDFkVy1XQWplZU9oem94TGpGZCZncm91cD1RMjl5WkVOc2IzVms)
 
 # 二十四节气
 
