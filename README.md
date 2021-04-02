@@ -14,10 +14,6 @@ https://www.lanzoui.com/b01bu2tqf b78m
 >
 >> https://shimo.im
 
-> WPS便签
->
->> https://note.wps.cn
-
 > DeepL
 >
 >> https://www.deepl.com/translator
@@ -33,6 +29,9 @@ https://www.lanzoui.com/b01bu2tqf b78m
 > 网盘搬运
 >
 >> https://www.multcloud.com
+
+> 加密音乐转码
+>> https://mp3.aoleiao.com/
 
 > 爱下电子书
 >
@@ -61,18 +60,6 @@ https://www.lanzoui.com/b01bu2tqf b78m
 > SM.MS
 >
 >> https://sm.ms
-
-> 企鹅邮箱
->
->> https://mail.qq.com
-
-> 网易邮箱
->
->> https://mail.yeah.net
-
-> Gmail
->
->> https://mail.google.com
 
 > 十分钟邮箱
 >
@@ -105,10 +92,6 @@ https://www.lanzoui.com/b01bu2tqf b78m
 > 不死鸟引擎
 >
 >> https://iao.su/909
-
-> 屏幕刷新率
->
->> https://www.testufo.com
 
 > aria2ng
 >
