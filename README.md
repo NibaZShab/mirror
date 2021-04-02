@@ -31,7 +31,7 @@ https://www.lanzoui.com/b01bu2tqf b78m
 >> https://www.multcloud.com
 
 > 加密音乐转码
->> https://mp3.aoleiao.com/
+>> https://mp3.aoleiao.com
 
 > 爱下电子书
 >
@@ -55,7 +55,7 @@ https://www.lanzoui.com/b01bu2tqf b78m
 
 > 青柠起始页
 >
->> https://a.maorx.cn/
+>> https://a.maorx.cn
 
 > SM.MS
 >
