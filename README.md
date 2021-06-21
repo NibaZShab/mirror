@@ -1,8 +1,5 @@
 ```
 https://www.lanzoui.com/b01bu2tqf b78m
-
-
-https://market.m.taobao.com/app/idleFish-F2e/widle-taobao-rax/page-detail?wh_weex=true&wx_navbar_transparent=true&id=648092413104&ut_sk=1.YMoBuUsMLOwDADgPZGe/Dqi5_12431167_1623931542926.Copy.detail.648092413104.3933996529&forceFlush=1
 ```
 
 # 二十四节气
@@ -74,6 +71,10 @@ https://market.m.taobao.com/app/idleFish-F2e/widle-taobao-rax/page-detail?wh_wee
 > 接码平台
 >
 >> https://www.yinsiduanxin.com
+
+> acgngame
+>
+>> https://acgngame.net/
 
 > 忧郁的loli
 >
