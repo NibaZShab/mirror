@@ -52,6 +52,10 @@ https://www.lanzoui.com/b01bu2tqf b78m
 >
 >> https://www.lightnovel.cn
 
+> acii2d
+>
+>> https://ascii2d.net
+
 > SauceNao
 >
 >> https://saucenao.com
