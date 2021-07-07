@@ -98,7 +98,7 @@ https://www.lanzoui.com/b01bu2tqf b78m
 
 > 动漫花园
 >
->> https://www.dongmanhuayuan.com
+>> https://acg.rip
 
 > 不死鸟引擎
 >
@@ -108,6 +108,6 @@ https://www.lanzoui.com/b01bu2tqf b78m
 >
 >> http://aria2.net
 
-> 本子站
->
->> https://jojod1.pw/zh
+> Nyaa里站
+> 
+>> https://sukebei.nyaa.si
