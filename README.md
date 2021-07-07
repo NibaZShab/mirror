@@ -13,18 +13,6 @@ https://www.lanzoui.com/b01bu2tqf b78m
 >
 >> https://g.vovososo.com/
 
-> 石墨文档
->
->> https://shimo.im
-
-> DeepL
->
->> https://www.deepl.com/translator
-
-> 奶牛传输
->
->> https://cowtransfer.com
-
 > office365
 >
 >> https://www.office.com
@@ -34,19 +22,12 @@ https://www.lanzoui.com/b01bu2tqf b78m
 >> https://www.multcloud.com
 
 > 加密音乐转码
+>
 >> https://mp3.aoleiao.com
 
 > 爱下电子书
 >
 >> https://m.aixdzs.com
-
-> 动漫之家神隐漫画
->
->> https://dmzj.nsapps.cn
-
-> 射手字幕
->
->> https://assrt.net
 
 > 轻之国度
 >
@@ -92,17 +73,9 @@ https://www.lanzoui.com/b01bu2tqf b78m
 >
 >> https://iacg.rip
 
-> tracker-all
->
->> https://trackerslist.com/all.txt
-
 > 动漫花园
 >
 >> https://acg.rip
-
-> 不死鸟引擎
->
->> https://iao.su/909
 
 > aria2ng
 >
